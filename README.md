@@ -1,6 +1,10 @@
 # Example Docker Express
 
-# License
+## Purpose
+
+## Development
+
+## License
 
 MIT License
 
