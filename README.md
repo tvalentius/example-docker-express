@@ -1,5 +1,7 @@
 # Example Docker Express
 
+Example of Express application/service deployed on Docker
+
 ## Purpose
 
 ## Development
